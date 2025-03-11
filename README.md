@@ -18,7 +18,6 @@ A gamified productivity application that combines task management with role-play
 
 Productivity Quest transforms mundane task management into an engaging experience by incorporating game mechanics like XP, levels, achievements, and rewards. Tackle your to-do list while progressing through a personal development journey.
 
-[SCREENSHOT: Level up notification and achievement unlock]
 
 ## Key Features
 
